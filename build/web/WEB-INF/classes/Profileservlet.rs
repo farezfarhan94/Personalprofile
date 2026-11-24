@@ -1,2 +1,0 @@
-controller.ProfileServlet
-controller.Profileservlet
